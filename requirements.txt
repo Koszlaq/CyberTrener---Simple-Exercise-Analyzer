@@ -1,0 +1,5 @@
+mediapipe==0.10.15
+numpy
+customtkinter
+Pillow
+opencv-python
