@@ -49,7 +49,7 @@
 ### Step-by-step Installation
 ```bash
 # Clone this repository
-git clone [https://github.com/YourUsername/CyberTrener.git](https://github.com/YourUsername/CyberTrener.git)
+git clone [link]
 
 # Enter the directory
 cd CyberTrener
