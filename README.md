@@ -40,7 +40,7 @@
 4.  **Front-end:** Creating a user-friendly GUI.
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 * Python 3.9
