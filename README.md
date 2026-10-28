@@ -1,10 +1,10 @@
-# 🏋️‍♂️ CyberTrener - Simple Exercise Form Corrector (Multi-Camera)
+# CyberTrener - Simple Exercise Form Corrector (Multi-Camera)
 
 > A Python application that uses stereoscopic computer vision to analyze and correct exercise form in real-time using two standard webcams.
 
 ---
 
-## 📺 Live Demo / Visuals
+## Live Demo / Visuals
 
 (SOON)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Muli-Camera system:** Syncs and processes live feeds from two webcams for enhanced accuracy.
 * **Real-time Form Analysis:** Calculates joint angles (e.g., knee bend during squats) against correct physiological norms.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Key Concepts
+## Tech Stack & Key Concepts
 
 **Languages & Libraries:**
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
